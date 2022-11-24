@@ -1,17 +1,41 @@
-## Teste do Real Time Clock
+## Código da horta automatizada 💻
 
-Encontra-se o arquivo utilizado para testar o Real Time Clock (RTC) utilizado para montagem do protótipo de Horta Automatizada. Sua utilidade se dá ao fato de, através das linhas de comando, poder capitar facilmente o atual horário de uma medição de umidade e, também, servir se parâmetro para o horário em que deve realizar suas medições ou irrigações. 
+<br>
 
+Aqui você poderá encontrar a estrutura de código utilizada para programar a Horta Automatizada e exemplos separados de testes para um RTC e Sensor de Umidade utilizados para melhor compreensão de como foi pensado o código.
+
+<br>
+
+## Notes 📝
+
+<br>
+
+Válido ressaltar algumas coisas para garantir que não hajam erros, antes de tudo, pode-se encontrar um [Guia para montagem e conceitos técnicos](https://github.com/Schusteerr/Horta-Automatizada/assets/Guia-Montagem/)
+
+### Na Estrutura
+É válido salientar que para esse projeto foi utilizado um dispositivo ESP, que nos possibilita fazer comunicação via wi-fi sem precisar de um módulo extra e também nos oferece uma capacidade muito boa para trabalhar com dados.
+Caso não esteja acostumado com o ESP é necessário fazer um 'setup' para que funcione corretamente, deixo aqui algumas referencias para auxiliar
+
+* [App ArduinoIDE](https://www.robocore.net/tutoriais/instalando-arduino-ide)
+
+* [ESP 8266 NodeMCU](https://www.robocore.net/tutoriais/como-programar-nodemcu-arduino-ide)
+
+### No Código
+
+Algumas bibliotecas são necessárias para executar o Código
 
 ~~~ino
-//IN CODE:
-String msg = token;
-msg += String(now.hour()) + ":" + String(now.minute()) + ":" + String(now.second()) + ";";
-msg += String(now.day()) + "/" + String(now.month()) + "/" + String(now.year());
+//Biblioteca responsável por conter funções necessárias para gerar comunicação entre dispositivos
+#include <Wire.h>
+//Biblioteca do Real Time Clock(RTC)
+#include "RTClib.h"
+//Bibliotecas para possibilitar conexão Wi-Fi e entre o servidor MQTT
+#include <ESP8266WiFi.h>
+#include <ESP8266HTTPClient.h>
 ~~~
-~~~
-RESULTS:
-14:25:13;17/11/2022;53.42%
-~~~
+Dentre essas bibliotecas a do Real Time Clock(RTC) será a única que precisará ser adicionada via arquivo .ZIP.
+Caso nao seja adepto em como instalar bibliotecas no ArduinoIDE, deixo aqui também algumas referências para servir de auxilio.
 
-No Exemplo acima
+* [Como Instalar Bibliotecas](https://www.blogdarobotica.com/2022/08/01/como-adicionar-biblioteca-na-arduino-ide/)
+
+* [Biblioteca do RTC](https://www.arduino.cc/reference/en/libraries/rtclib/)
