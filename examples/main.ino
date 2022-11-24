@@ -10,16 +10,16 @@
 
 //Servidor Enviar Dados
 #ifndef HTTPSERV
-#define HTTPSERV ""  //inserir a URL do Servidor HTTP que deseja enviar os dados
-#define HTTPTOKEN "" //Token do Servidor HTTP
+#define HTTPSERV  "" //inserir a URL do Servidor HTTP que deseja enviar os dados
+#define HTTPTOKEN  "" //Token do Servidor HTTP
 #endif
 const char* server =  HTTPSERV;
 const char* token = HTTPTOKEN;
 
 //SSID e Senha para conectar ao Wi-Fi
 #ifndef STASSID
-#define STASSID "PSM_AP_CARLOS"
-#define STAPSK  "maquinadeguerraarrebenta"
+#define STASSID //ssid do WIFI
+#define STAPSK  //senha do WIFI
 #endif
 const char* ssid     = STASSID;
 const char* password = STAPSK;
