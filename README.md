@@ -1,10 +1,10 @@
 # Horta Automatizada 🌻
 ### Por: Instituto Federal de Minas Gerais - Campus Ibirité
 ### Integrantes:
-* Professor Elias José de Rezende Freitas
-* Professor Carlos Dias da Silva Jr.
-* Milena Moreira
-* Pietro Schuster Moreira
+* [Professor Elias José de Rezende Freitas](https://github.com/eliasjof)
+* [Professor Carlos Dias da Silva Jr.](https://github.com/Carlos-Jr)
+* Milena Nicoly Alves Moreira
+* [Pietro Schuster Moreira](https://github.com/Schusteerr)
 
 ## Desenvolvimento do Projeto 🛠
  
