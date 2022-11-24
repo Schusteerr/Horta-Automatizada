@@ -4,6 +4,11 @@
 
 Aqui você poderá encontrar a estrutura de código utilizada para programar a Horta Automatizada e exemplos separados de testes para um RTC e Sensor de Umidade utilizados para melhor compreensão de como foi pensado o código.
 
+~~~
+RESULTADO:
+14:25:13;17/11/2022;53.42%
+~~~
+
 <br>
 
 ## Notes 📝

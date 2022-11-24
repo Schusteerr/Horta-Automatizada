@@ -1,4 +1,4 @@
-## Teste do Real Time Clock ⏰
+## Teste do Real Time Clock 🕒
 
 <br>
 
