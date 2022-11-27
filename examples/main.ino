@@ -131,7 +131,7 @@ void senderrormensage()
 
   String msgTime = String(agora.hour()) + ":" + String(agora.minute()) + ":" + String(agora.second()) + "-" + String(agora.day()) + "/" + String(agora.month()) + "/" + String(agora.year());
   
-  String urlFinal = "https://script.google.com/macros/s/"+sheet_id+"/exec?hora="+ msgTime +"&umidade=ERRO";
+  String urlFinal = "https://script.google.com/macros/s/"+sheet_id+"/exec?hora="+ msgTime +"&umidade=ERRO"; // Mensagem de erro
   
   std::unique_ptr<BearSSL::WiFiClientSecure>client(new BearSSL::WiFiClientSecure);
   client->setFingerprint(fingerprint);

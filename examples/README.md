@@ -59,3 +59,21 @@ Dentre essas bibliotecas, a do Real Time Clock (RTC) será a única que precisar
 #include "ArduinoJson.h
 ~~~
 
+## Setup da planilha do Google Sheets e Google Script
+
+Foi elabora um video explicativo sobre o ambiente do qual os dados vão, o mesmo que pode ser encontrado no link abaixo.
+
+Para preparar o Google Scrip é necessário o código abaixo, para gerar uma implementação contendo o link do qual os dados vão ser encaminhados.
+
+~~~c++
+var sheet_id = ""; // Inserir o ID da planilha, que está situado no link da mesma
+var sheet_name = ""; //Inserir o nome da planilha
+function doGet(e){
+var ss = SpreadsheetApp.openById(sheet_id);
+var sheet = ss.getSheetByName(sheet_name);
+var hora = String(e.parameter.hora); //aqui foi dita uma coluna do nome 'hora', caso a sua for diferente apenas substitua
+var dados = String(e.parameter.dados) //aqui foi dita uma coluna do nome 'dados', caso a sua for diferente apenas substitua
+sheet.appendRow([dados,hora]); //efetue a substituição dos nomes da coluna aqui também, caso necessário
+}
+~~~
+
