@@ -42,7 +42,7 @@ Sua utilidade se dá ao fato de poder deixar o circuito operando dentro de ciclo
 
 ##
 
-## Power Supply
+## Fornecimento de Energia
 
 
 

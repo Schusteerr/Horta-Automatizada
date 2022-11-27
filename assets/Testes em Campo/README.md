@@ -1,7 +1,6 @@
 ## Teste em Campo 🌾
 
-O Projeto da Horta Automatizada foi levado para efetuar testes em campo na horta da Escola Estadual Sandoval Soares De Azevedo, contando com uma equipe agrária especializada para ajudar a validar nossas Hipóteses e os resultados obtidos pelo sensor.
-
+Foi desenvolvido o primeiro protótipo de sensor de umidade do solo, com painel solar e bateria interna. O microcontrolador envia os dados para servidor na internet por Wi-fi já existente.
 <br>
 
 ### Equipe IFMG + Equipe Sandoval
@@ -13,14 +12,17 @@ O Projeto da Horta Automatizada foi levado para efetuar testes em campo na horta
 
 ## Etapas do Teste 📋
 
+Os alunos e Professores participantes do projeto da Horta Automatizada encontram-se com uma equipa de uma escola aprceira selecionada, Escola Estadual Sandoval Soares de Azevedo, onde os mesmos auxiliaram a validar informações a respeito da capacidade do prototipo desenvolvido.
+
+Os profissionais agrários do local informaram de três terrenos para efetuar testes, também informaram das condições de cada terreno, então foi criada uma expectativa apresentada a seguir com seus resultados.
+
 <br>
 
 ### Primeiro Terreno
-Primeiramente, os profissionais agrários nos informaram a respeito da umidade do local, dizendo que, em decorrência de uma chuva forte, o local tinha sido levemente alagado e, onde estavamos, todo o local deveria contar o mesmo parâmetro de umidade.
+A respeito da umidade do local, em decorrência de uma chuva forte, o local havia sido levemente alagado e deveria contar com baixa oscilação de umidade.
+ Com isso, foram selecionados dois locais para efeuar o teste, um primeiro onde, na teoria, estaria mais seco pelo fato de maior incidência solar, por tratar de plantio curto sem projeção de sombra, e obtivemos um resultado de aproximadamente 50% de umidade.
 
-Com isso, selecionamos dois locais para efeuar o teste, um primeiro onde achamos estar mais seco pelo fato de maior incidência solar, por tratar de legumes curtos sem projeção de sombra, e obtivemos um resultado de aproximadamente 50% de umidade
-
-
+Obteve-se os seguintes resultados:
 
 <div style="display: inline-block">
   <img height= "270" src="https://lh3.googleusercontent.com/fife/AAbDypDLJhSsMTRCKJYtCGWyHyTIIWmqzWLS6_Hpj8Y2kzY3n51c34KEERuogLRvSJNAJViS6cLn-ugk97w38y9v3sj52-sZyDIHxeqxW6Dm0nYueVpQGHm1EMMa7jQABbRU2I-tCciscna13mqTAS0T37bP4zF30yUVphTasY6KO26BtM07iRBm4Pu4VfvrHq2xJMDLTIttUzcmK1fc8kx72dhzpiNyt5JYvpZk2heDtEZWGZtMXKRcf5XyQxNxHUxr2bVj3heI2PKFs5xup9tXJSfh99CzbplOWBKrHTNziZ47vSF2YuarwxCogBATAV6l2ovSio1N_uPDVPmsqlZvtfeVwoDcnXSrvl3zBem-xTtJiZfzu6Z638T5_NFqH7Ad1NM3qAsBpd97ex8ZvlfC8nLeQxEbkdMnexdfeo0wfT3QTsLHbuV7MZrK6lDfOlMz0WUoX1h0IqT9AAaL22gJXkVdI2bmH64Gq4BlW-OrzAgTx89EsMBFsZAtkrnikudPiTUJlx5RMJZrDbwjp3Bv6_j9u9Y7sbLFMhggMCnXOCPuR4hZbD7Wqjs0KyNkQjasVFmP3gQa1Do_EiId3ggInVRCDZCbbPR_SgP3-h7jd1EsSLHv6X6QrzChcX2N0E-pQGgZ_yZkskZ6vm1F090v6OGERY0CxsQwRmHAJli_CwK9ZlW7UC9y6PFACbuG71jaQ0p2_0QXNtJ75TKIoXrBvbvEmsw7S9jZGIKc78H3Nxuq9TmdFzDHLS218NkNtnZJ0dYYvyTxGrWaCt1h5Xbdbkh0bycIAT9kz1Z5D8UrobJ-_DhD2avI7ItGP2SgSFmJD3FzWBv1wCKM4hGFRutjPRnm3xYff5Ve6I0lofeA0bbG2h88Y1i1gbPMGyPBuPneVPIfI2Kwz2DHzjk7OYJtH2sTE0j2VM1H-LwhkUNtF4YUQNzFjPIvLMGdrsaaolDiROVcQ0SHvaNs4k3VTe3GUSryBJ6Z5rylUBuE-GLRe8hXQNsyL2f3sUssBH0cQFwUkoxm_i8mGRFb_4zQDlOyjSybiyA9fsAxqNh6Byr2_dcyCkWpEHZhufg5f3cJ6OesVA0BbRPNJiBNHWOG84a_t4uES7qaB1PmsgMx1V0lANOBan3Zk8P_m28uRZktPReyKmnbg2tpKJ_WYCRBMtxacVv28PtC4FJIMGLLCXAW71oXCScXxwrohW8OeRWvyiND5q0D2AsYZsKiRHirSfjb7Vle50UWXlXz07FnQ5ZC9xOu_o-v7b7m4Lxs05YLIUuciwYfq5aVzHCgxfdMkfEjp6J3e8oCB-Co36QHcJ2z_mE8fG3n4Y8IkJF10i8u0g6BV9xdLcnMqkxUidQl6BYL5JQnhdkokJUjvapyjZkl6GNT0Z0smcaGO1QUzT12znEDn1RPnNq2UVZ1wle6q2Vrb9yotjb5OS_KJBKPkcqF5nm610Nkhfca7lM8rBHYLyAZkhmNuppY3g-CW4snXQqSfYcBneMZivKlSSVVF3An5sBmhBxEy5_UjndajgB294Pf56PvN018RndN16_YbSqW1RAM1FFFGCHnyz8G_fcwzPau_NlUhu-1w_RUf7tgMCfWrA=w1920-h969"/>
@@ -30,9 +32,7 @@ Com isso, selecionamos dois locais para efeuar o teste, um primeiro onde achamos
 <br>
 
 ### Segundo Terreno
-Posteriormente, fomos a um plantio próximo ao anterior, pois ali nao hávia tanta incidência solar diretamente ao solo pelo fato de as próprias plantas gerarem uma pequena sombra.
-
-Tendo isso em vista, pensamos que a umidade no local estaria muito próxima aos 50%, dado a chuva que também sofreu, porem pouco mais umida, então fomos comprovar com o sensor.
+No próximo plantio, não hávia tanta incidência solar diretamente ao solo pelo fato de as próprias plantas gerarem uma pequena sombra. Tendo isso em vista, a expectativa de umidade no local estaria muito próxima aos 50%, porem, talvez, pouco mais umida, então foi-se comprovar com o sensor.
 
 
 <div style="display: inline-block">
@@ -44,9 +44,7 @@ Tendo isso em vista, pensamos que a umidade no local estaria muito próxima aos 
 
 ### Terceiro Terreno
 
-Logo após notarmos essa diferença, que foi positiva, procuramos por um local que estaria mais umido que os demais, então a equipe agrária nos levou a uma plantação de Quiabo que havia sido coberta com mato, afins de manter a umidade e adubar naturalmente o solo.
-
-Por tudo isso, foi dito que o solo ali deveria está com uma diferença notoria de umidade, então testamos.
+Após notar uma diferença entre os dois terrenos e atender as expectativas, o protótipo foi levado a uma horta adubada que, na teoria, estaria bem mais umida que as demais. Felizmente o protótipo nos trouxe resultados comprovando sua capacidade.
 
 <div style="display: inline-block">
   <img height= "270" src="https://lh3.googleusercontent.com/fife/AAbDypDcIe_Omu01F6MfEaxeUJv4P9sHTIRzRUJKaS3LW2-m7dAa_8WMOjOVITUF3v7XDg3izUpPnFhBBBNkALqNLHtyH1_1-tawYCo9cFrRw63EsLMrotbbo5KgmtijRaGly4mYfjIdlZE5gsy7_o0R4ohtxJhEdj-mDqQt8U2Ir5ABVNXQICiiJqY7Nn5D4_aiCRQkXQepjbqa8NVId1SQyNP7pYfrm3eu48bWQE8VvUt-PjvT2GNFNVXOZt_-b0960NVQV3IojxElZOlDSQTKYxtzFQ8wqnMrYxNwCEc0AQ3co-p_9Uz6kAT0MO3QGy_A7n69IZ2wr3cQ8gBF3MGMZlG3jtYGsQW7mZmXZPq87Ow8-PjSMtpWUjkwnu0UMrvw-8E2zDyS5or3cuJl9zTHRo05fMqKh0QoTsA04FbP-K8q7HmlYLuE5BAObUhtnsqT16ztBtO5wr8gz4Mf5UtFgTSEkD7WetSF0K_-pNjERBcSN91fBLGud2UdTvg0lrKHK_ssiQfKuiAq36dUD7YKaUD4F--ytZf8f5OLVUnnw_HvqcsAYG0s-S9BCsB8Jf0AqhmmV6QGHQv6hLWFusYX60eYgAbWNt-DziI6l_YvbhF08cRMQV4l3WqRDXJEG4Qx_bS4UUz3lnJE03Hn01Ud-_AN_sPiFvNpvYvK18pOXXPpJO4kmqu78GQAu5Odq9IJs1nVVFf8pPxk_ydejkxhI62WfhvWeFx89R46QIaH63PImsgdP_82YHu29NZDA7D5BHc8L3UDztysOiwVskzyGOo19O34YEXeWDFMOjUtW_0mFJ3oGwon9mUSFFssPX6dbMBGN_egIAYFH3D5XhHks_Ia-711zbLal0YKL1Qti-Gr1qRrQwG9iq-F8RX8_UYQm9NcgEEpWAumpoY6jo4t3YQyGhCQdZxG_RY0NPFb72ocQuWdPX7zgUq_OUihQwq_NzSM5-4CX9d2BQbLM2iutucRgyF-tccNPdq6dSZUH4OJ_6UFUf-PvVEUYr6VTG4wOznS0GW6UESftWM6tVDEK48LeX2kqT8N-WiIvoggT2WFCJ_KAt1IAhc1P0SQqY_8DZQDJJQFf-nlVgJgFPqUhTi3D2hH7T28xvSKQQ5ZdqtoPgZjys7IGjnVnVCxtjhZ9wDMVlGZs8Zo7W8n85cgcbMn_W2JTLql1HVBiZPCH65egQ4PgKyD4Im8ojNfeo0q-kQ9pVbca8kD7WC0sKyrLOYgcBHDQiZk5Pa3MwUYinqDtVol3ibseaqHQjoyUITSb_NWB6gzT8jXbSqQgEjxlFe0s4cBd1jceSv6FqInr6cwJM_bDOYKr5ug44wQZ07gP93Fq2AcnxkaCnO2IYXMZPV0WxphF7XOXl_mdOT2ROSKOTHfn43Yn1Oad1ybkhc7CFE0DwHtUHIKz-i-0473ke4u9EwXEKvwbZTaanD_zQofPY15k5pAsGfzmilC8kk2yk2QSQEDHYBPlkhVKP7AzRNTKN01aMB0kbgjsEkaChKs03BV8tvJs_PPQ1dLneJmQL5vLROVG3IbOlDDQ7paa7UUneNbmvDEAHBkZ5GXKMFaGF2AjgXhoEmNmun3kO8Esg=w1920-h969"/>
@@ -57,8 +55,6 @@ Por tudo isso, foi dito que o solo ali deveria está com uma diferença notoria 
 
 ## Conclusão ✔
 
-Podemos afirmar a capacidade do sensor em medir a umidade do solo de modo que esteja de acordo com a realidade, assim como ver isso juntamente à opinião de profissionais da área.
+Pode-se afirmar a capacidade do protótipo em medir a umidade do solo de modo que esteja de acordo com a realidade e que não encontrou-se problemas na obtenção desses dados.
 
-Também notamos problemas com relação a temperatura dentro da Case do dispositivo, que, conforme observado, estava oscilando de 40ºC à 46ºC.
-
-Ao fim, saimos satisfeitos com o teste realizado em campo.
+Porêm, dentro da caixa do protótipo há certas oscilações de temperatuda que pode-se capitar, então há planejamento de outro design que comporte melhor em relação a temperatura.
