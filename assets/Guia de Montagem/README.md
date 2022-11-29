@@ -3,7 +3,7 @@
 Aqui será apresentado um pouco sobre os itens utilizados para a montagem, a parte detalhada esta disponível em vídeos que podem ser encontrados na [Página Principal](https://github.com/Schusteerr/Horta-Automatizada#circuito-)
 
 ## Circuito Eletrônico
-* para testes de montagem foi utilizada uma Protoboard, mas no protótipo os itens são soldados.
+* para testes de montagem foi utilizada uma Protoboard (placa de ensaio/prototipagem), mas no protótipo os itens são soldados.
 
 ### **ESP8266 NodeMcu ESP-12**
 Seu uso se dá a capacidade de poder trabalhar rapidamente com dados e possuir um módulo Wi-Fi para poder utilizar desses dados em diferentes aplicações, no projeto ele se comunica via HTTP
@@ -38,11 +38,15 @@ Sua utilidade se dá ao fato de poder deixar o circuito operando dentro de ciclo
     <img align="center" src="https://http2.mlstatic.com/D_NQ_NP_899832-MLB50562962756_072022-O.webp">   
 </div>
 
-<br>
-
 ##
 
+<br>
+
 ## Fornecimento de Energia
+
+Como trata-se de uma ideia de Robótica Sustentável, foi utilizado nesse projeto alimentação fotovoltaica, a base de apenas um painel solar que fornece alimentação para três pilhas de lithium, dispostas em série, o que equivale à aproximadamente 12V, que então, essas pilhas fornecem 5V para alimentar o ESP.
+
+O Painel solar escolhido é do tipo Policristalino - Naturalmente há painéis do tipo Poli- e Molo- cristalinos, a diferencia se dá pela eficiência entre ambos, onde o Policristalino têm sua eficiência reduzida - sua escolha se dá ao fato da elaboração do projeto, pois o painel é planejado para ficar em áreas que sofrem de maior incidência solar, não tendo problemas com relação a sua eficiência, considerando que o Monocristalino é planejado para trabalhar, também, em áreas de menor incidência.
 
 
 

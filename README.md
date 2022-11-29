@@ -32,8 +32,8 @@ O projeto será desenvolvido em oito meses, contando com dois alunos bolsistas, 
 Disponibilizei aqui uma playlist de vídeos onde é mostrado detalhadamente como que funciona e monta o circuito, alguns detalhes também podem ser encontrados em [Guia De Montagem](https://github.com/Schusteerr/Horta-Automatizada/tree/main/assets/Guia%20de%20Montagem). Válido ressaltar também há uma explicação do código programado em [examples](https://github.com/Schusteerr/Horta-Automatizada/tree/main/examples).
 
 * [Video Introdutório, explicando o que é ESP8266 (microcontrolador utilizado)](https://drive.google.com/file/d/1Pkusc8WeXFENJG-tFHynk2-1EAQGb-vN/view?usp=share_link)
-* [Video Explicativo sobre o Sensor de umidade utilizado]()
-* [Real Time Clock utilizado e o porquê de usar]()
+* [Video Explicativo sobre o Sensor de umidade utilizado](https://drive.google.com/file/d/1jrZ0Ppgodmlv2w3pgmT6o9LDGQujc-oJ/view?usp=share_link)
+* [Real Time Clock utilizado e o porquê de usar](https://drive.google.com/file/d/1PfVyzLgJLrnmP6LEz6YhN6oHJYhQg-XR/view?usp=share_link)
 * [Como funciona e como configura uma Planilha para receber os dados]()
 * [Como tudo interage no código de programação e como configurar o mesmo]()
 
