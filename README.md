@@ -34,16 +34,25 @@ Disponibilizei aqui uma playlist de vídeos onde é mostrado detalhadamente como
 * [Video Introdutório, explicando o que é ESP8266 (microcontrolador utilizado)](https://drive.google.com/file/d/1Pkusc8WeXFENJG-tFHynk2-1EAQGb-vN/view?usp=share_link)
 * [Video Explicativo sobre o Sensor de umidade utilizado](https://drive.google.com/file/d/1jrZ0Ppgodmlv2w3pgmT6o9LDGQujc-oJ/view?usp=share_link)
 * [Real Time Clock utilizado e o porquê de usar](https://drive.google.com/file/d/1PfVyzLgJLrnmP6LEz6YhN6oHJYhQg-XR/view?usp=share_link)
-* [Como funciona e como configura uma Planilha para receber os dados]()
-* [Como tudo interage no código de programação e como configurar o mesmo]()
+* [Como funciona o recebimento de dados e como configurar -  Planilha + Código de Programação](https://drive.google.com/file/d/12t7kd5o8ClAIliTEEnxjDfcF6QjCyJ7u/view?usp=share_link)
+
+<br>
 
 ## Energia 🔋
-Aqui há videos mostrando como que funciona a parte de manejamento de energia elétrica para o Dispositivo, dos itens utilizados ate sua montagem integrada ao circuito.
 
-* [null]()
-* [null]()
-* [null]()
-* [null]()
+Sobre o método de fornecimento de energia, foi elaborada uma proposta de Energia Renovável que consiste em um painel solar, pensado para um terreno que possui maior incidência solar para trabalho, e, também, um pequeno circuito envolvendo uma bateria de 3 pilhas de Lithium em série (4.2V cada), que passam por um regulador de Tensão para alimentar devidamente o circuito. Segue a explicação dos itens abaixo:
+
+* **Painel Solar**
+
+Foi escolhido um panel solar Policristalino, que é de baixo custo/eficiência em relação ao Monocristalino, porem sua escolha se da em conta ao ambiente de trabalho, pois ele operará em áreas que contam com maior Incidência Solar, não havendo problemas em relação a fornecer uma devida alimentação de energia elétrica.
+
+* **Baterias**
+
+O Painel opera juntamente à um pequeno circuito de pilhas de Lithium, dispostas em série, sua função é mantelas carregadas, pois as pilhas - que são três de 4.2V, fornecendo aproximadamente 12V - são responsáveis por manter o circuito eletrônico sempre em funcionamento.
+
+* **Step Down**
+
+Para manter o circuito em funcionamento, é necessária uma tensão correta a ser aplicada, para que isso ocorra usa-se um regulador de tensão Step Down, que como o nome deixa evidente, regula a tensão para uma margem menor, um degrau para baixo, entregando para o microcontrolador do circuito 5V, um ideal para operá-lo.
 
 <br>
 
