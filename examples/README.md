@@ -65,6 +65,8 @@ Foi elabora um video explicativo sobre o ambiente do qual os dados vão, o mesmo
 
 Para preparar o Google Scrip é necessário o código abaixo, para gerar uma implementação contendo o link do qual os dados vão ser encaminhados.
 
+Abaixo, deixo também um link contendo o material referência para configurar o ESP a planilha, quaisquer duvidas consulte-o.
+
 ~~~c++
 var sheet_id = ""; // Inserir o ID da planilha, que está situado no link da mesma
 var sheet_name = ""; //Inserir o nome da planilha
@@ -77,3 +79,4 @@ sheet.appendRow([dados,hora]); //efetue a substituição dos nomes da coluna aqu
 }
 ~~~
 
+* [Referência](https://iotdesignpro.com/articles/esp32-data-logging-to-google-sheets-with-google-scripts)
