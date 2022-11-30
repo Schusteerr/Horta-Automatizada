@@ -3,7 +3,7 @@
 ### Integrantes:
 * [Professor Elias José de Rezende Freitas](https://github.com/eliasjof)
 * [Professor Carlos Dias da Silva Jr.](https://github.com/Carlos-Jr)
-* [Professor Rubens Palhares]
+* [Professor Rubens Palhares]()
 * Milena Nicoly Alves Moreira
 * [Pietro Schuster Moreira](https://github.com/Schusteerr)
 
