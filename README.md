@@ -11,7 +11,7 @@
 <br>
 Apresentação do projeto no Ministério da Educação (MEC) - 2ª Semana Nacional da Educação Profissional e Tecnologia
 <div align="center">
-    <img align="center" src="https://raw.githubusercontent.com/Schusteerr/Horta-Automatizada/main/assets/MEC.jpg"> 
+    <img align="center" src="https://raw.githubusercontent.com/Schusteerr/Horta-Automatizada/main/assets/MEC.png"> 
 </div>
 
 <br>
