@@ -27,11 +27,11 @@ Além disso, este projeto está articulado com o Programa Innovation Management 
 
 ## Desenvolvimento do Projeto 🛠
  
-O projeto será desenvolvido em oito meses, contando com dois alunos bolsistas, um do curso técnico (PIBEX-Jr) e outro da graduação (PIBEX) do campus Ibirité. A metodologia do projeto pode ser divida em cinco macro atividades:
+O projeto será desenvolvido em oito meses, contando com dois alunos bolsistas, um do curso técnico (PIBEX-Jr) e outro da graduação (PIBEX) do campus Ibirité. A metodologia do projeto pode ser divida em quatro macro atividades:
 
 (i) produção de um protótipo: serão desenvolvidos os circuitos eletrônicos e o design 3D de um protótipo inicial.
 
-(ii) validação do protótipo: testes em campo (na horta já existem da escola parceira selecionada) e a, partir desses testes realizar, melhorias no protótipo.
+(ii) validação do protótipo: testes em campo (na horta já existem da escola parceira selecionada) e, a partir desses testes, realizar melhorias no protótipo.
 
 (iii) divulgação à comunidade externa: elaboração de roteiros de práticas utilizando aprendizagem ativa e oficinas com os alunos da escola parceira.
 
