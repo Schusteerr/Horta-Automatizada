@@ -69,7 +69,7 @@ Para manter o circuito em funcionamento, é necessária uma tensão correta a se
 
 ## Referências 
 
-NOVAES, Matheus Sinto. Hortal vertical com sistema de monitoramento IoT. 2022.
+NOVAES, Matheus Sinto Horta vertical com sistema de monitoramento IoT. Universidade Estadual Paulista (Unesp), 2022. Disponível em: <http://hdl.handle.net/11449/216233>.
 
 FERNANDES, Caio Nascimento. Integração de dispositivos de medição e de comunicação para o monitoramento da umidade do solo e automação da irrigação. 2022.
 
