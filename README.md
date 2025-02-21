@@ -14,6 +14,12 @@ Apresentação do projeto no Ministério da Educação (MEC) - 2ª Semana Nacion
     <img align="center" src="https://raw.githubusercontent.com/Schusteerr/Horta-Automatizada/main/assets/MEC.png"> 
 </div>
 
+#### **Publicação**
+
+**Freitas**, E. J. de R., **Silva Junior**, C. D. da, **Machado**, P. H. F., **Moreira**, M. N. A., **Schuster**, Pietro (2024) Low-Cost Automated Vegetable Garden: Integrating Educational Robotics in High School. Em Revista De Gestão Social E Ambiental, 18(7), e08357.  
+https://doi.org/10.24857/rgsa.v18n7-167
+
+
 <br>
 
 
